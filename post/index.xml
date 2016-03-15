@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Antifa Kampfausbildung e.V.</title>
+    <link>http://antifakampfausbildung.github.io/blog/post/</link>
+    <description>Recent content in Posts on Antifa Kampfausbildung e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Tue, 15 Mar 2016 16:00:48 +0100</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://antifakampfausbildung.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>frau_kepetry</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/frau_kepetry/</link>
+      <link>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</link>
       <pubDate>Tue, 15 Mar 2016 16:00:48 +0100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/frau_kepetry/</guid>
+      <guid>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</guid>
       <description>
 
 &lt;h1 id=&#34;ein-wunderschöner-name:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;Ein wunderschöner Name&lt;/h1&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>test.md</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/test/</link>
+      <link>http://antifakampfausbildung.github.io/blog/post/test/</link>
       <pubDate>Tue, 15 Mar 2016 15:36:16 +0100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/test/</guid>
+      <guid>http://antifakampfausbildung.github.io/blog/post/test/</guid>
       <description>&lt;p&gt;Dies ist ein Test. Wir möchten nur probieren.&lt;/p&gt;
 
 &lt;ol&gt;

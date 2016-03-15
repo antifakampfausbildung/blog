@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 16:00:48 +0100</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>frau_kepetry</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/frau_kepetry/</link>
+      <pubDate>Tue, 15 Mar 2016 16:00:48 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/frau_kepetry/</guid>
+      <description>
+
+&lt;h1 id=&#34;ein-wunderschöner-name:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;Ein wunderschöner Name&lt;/h1&gt;
+
+&lt;p&gt;Wieder mal eine Aufzählung schöner Namen:
+1. Fra Kepetry
+2. Weiß ich nicht
+3. Your Mama was a hoe&lt;/p&gt;
+
+&lt;p&gt;Schön, oder?&lt;/p&gt;
+
+&lt;h2 id=&#34;nächste-überschrift:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;Nächste Überschrift&lt;/h2&gt;
+
+&lt;h1 id=&#34;tutut:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;tutut&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test.md</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/test/</link>
+      <pubDate>Tue, 15 Mar 2016 15:36:16 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/test/</guid>
+      <description>&lt;p&gt;Dies ist ein Test. Wir möchten nur probieren.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;hugo new postname.md&lt;/li&gt;
+&lt;li&gt;hugo server&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Neuer Paragraph&lt;/p&gt;
+
+&lt;p&gt;Noch einer&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

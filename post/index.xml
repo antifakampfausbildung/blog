@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Antifa Kampfausbildung e.V.</title>
+    <title>Antifa Kampfausbildung e.V. </title>
     <link>http://antifakampfausbildung.github.io/blog/post/</link>
-    <description>Recent content in Posts on Antifa Kampfausbildung e.V.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    <lastBuildDate>Tue, 15 Mar 2016 16:00:48 +0100</lastBuildDate>
-    <atom:link href="http://antifakampfausbildung.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-03-15 16:00:48 &#43;0100 CET</updated>
+
     
-    <item>
-      <title>frau_kepetry</title>
-      <link>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</link>
-      <pubDate>Tue, 15 Mar 2016 16:00:48 +0100</pubDate>
       
-      <guid>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</guid>
-      <description>
+        <item>
+          <title>frau_kepetry</title>
+          <link>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</link>
+          <pubDate>Tue, 15 Mar 2016 16:00:48 CET</pubDate>
+          <author></author>
+          <guid>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</guid>
+          <description>
 
 &lt;h1 id=&#34;ein-wunderschöner-name:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;Ein wunderschöner Name&lt;/h1&gt;
 
@@ -30,15 +31,17 @@
 
 &lt;h1 id=&#34;tutut:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;tutut&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>test.md</title>
-      <link>http://antifakampfausbildung.github.io/blog/post/test/</link>
-      <pubDate>Tue, 15 Mar 2016 15:36:16 +0100</pubDate>
+        </item>
       
-      <guid>http://antifakampfausbildung.github.io/blog/post/test/</guid>
-      <description>&lt;p&gt;Dies ist ein Test. Wir möchten nur probieren.&lt;/p&gt;
+    
+      
+        <item>
+          <title>test.md</title>
+          <link>http://antifakampfausbildung.github.io/blog/post/test/</link>
+          <pubDate>Tue, 15 Mar 2016 15:36:16 CET</pubDate>
+          <author></author>
+          <guid>http://antifakampfausbildung.github.io/blog/post/test/</guid>
+          <description>&lt;p&gt;Dies ist ein Test. Wir möchten nur probieren.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;hugo new postname.md&lt;/li&gt;
@@ -51,7 +54,9 @@
 
 &lt;p&gt;Warum wird diese Datei nicht übernommen?&lt;/p&gt;
 </description>
-    </item>
+        </item>
+      
     
+
   </channel>
 </rss>

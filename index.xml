@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antifa Kampfausbildung e.V. </title>
-    <link>http://antifakampfausbildung.github.io/blog/</link>
+    <link>https://antifakampfausbildung.github.io/blog/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>frau_kepetry</title>
-          <link>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</link>
+          <link>https://antifakampfausbildung.github.io/blog/post/frau_kepetry/</link>
           <pubDate>Tue, 15 Mar 2016 16:00:48 CET</pubDate>
           <author></author>
-          <guid>http://antifakampfausbildung.github.io/blog/post/frau_kepetry/</guid>
+          <guid>https://antifakampfausbildung.github.io/blog/post/frau_kepetry/</guid>
           <description>
 
 &lt;h1 id=&#34;ein-wunderschöner-name:fb305e5a35b148c4dec1e0b179366a13&#34;&gt;Ein wunderschöner Name&lt;/h1&gt;
@@ -37,10 +37,10 @@
       
         <item>
           <title>test.md</title>
-          <link>http://antifakampfausbildung.github.io/blog/post/test/</link>
+          <link>https://antifakampfausbildung.github.io/blog/post/test/</link>
           <pubDate>Tue, 15 Mar 2016 15:36:16 CET</pubDate>
           <author></author>
-          <guid>http://antifakampfausbildung.github.io/blog/post/test/</guid>
+          <guid>https://antifakampfausbildung.github.io/blog/post/test/</guid>
           <description>&lt;p&gt;Dies ist ein Test. Wir möchten nur probieren.&lt;/p&gt;
 
 &lt;ol&gt;
